@@ -29,14 +29,14 @@ The _SAEN-LARS_ package contains following files:
 __README__: This file.
 
 __Functions__: Function files for implementation of three algorithms proposed in the paper.
-> * _[saen.m]()_: The main function, sequential adaptive elastic net (SAEN) approach. 
-> * _[cpwwen.m]()_: Auxiliary function, called by the main function three times.
-> * _[clarswlasso.m]()_: Auxiliary function for finding knots and respective solutions at found knots.
+> * _[saen.m](https://github.com/mntabassm/SAEN-LARS/blob/master/saen.m)_: The main function, sequential adaptive elastic net (SAEN) approach. 
+> * _[cpwwen.m](https://github.com/mntabassm/SAEN-LARS/blob/master/cpwwen.m)_: Auxiliary function, called by the main function three times.
+> * _[clarswlasso.m](https://github.com/mntabassm/SAEN-LARS/blob/master/clarswlasso.m)_: Auxiliary function for finding knots and respective solutions at found knots.
 
 __Usage__: The files for the demo and an example.
-> * _[Demo.mlx]()_: A live script demo.
-> * _[Example.m]()_: An example for DoA estimation with a ULA in CBF application.
-> * _[seed_data.mat]()_: Scenario data and pseudorandom number generator settings. 
+> * _[Demo.mlx](https://github.com/mntabassm/SAEN-LARS/blob/master/Demo.mlx)_: A live script demo.
+> * _[Example.m](https://github.com/mntabassm/SAEN-LARS/blob/master/Example.m)_: An example for DoA estimation with a ULA in CBF application.
+> * _[seed_data.mat](https://github.com/mntabassm/SAEN-LARS/blob/master/seed_data.mat)_: Scenario data and pseudorandom number generator settings. 
 
 Download the package and extract the files into a folder with “full control” permission.
 Set the MATLAB home directory to the above folder. Thereafter, open either 'Demo.mlx' or 'Example.m' file in MATLAB and follow the steps.
