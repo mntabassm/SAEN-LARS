@@ -1,6 +1,6 @@
-# Package Repository | _SAEN-LARS_
+# Package Repository | _SAEN-LARS_    [![DOI](https://zenodo.org/badge/125818623.svg)](https://zenodo.org/badge/latestdoi/125818623)
 
-* __Version__: 1.0.0
+* __Version__: 1.0.0 
 * __Title__: Sequential Adaptive Elastic Net Approach for Single-snapshot Source Localization	 
 * __Short Title__: _Sequential Adaptive Elastic Net_ 
 * __Authors__: Muhammad Naveed Tabassum and Esa Ollila
@@ -40,3 +40,5 @@ __Usage__: The files for the demo and an example.
 
 Download the package and extract the files into a folder with “full control” permission.
 Set the MATLAB home directory to the above folder. Thereafter, open either 'Demo.mlx' or 'Example.m' file in MATLAB and follow the steps.
+
+[![DOI](https://zenodo.org/badge/125818623.svg)](https://zenodo.org/badge/latestdoi/125818623)
