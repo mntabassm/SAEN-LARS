@@ -41,4 +41,4 @@ __Usage__: The files for the demo and an example.
 Download the package and extract the files into a folder with “full control” permission.
 Set the MATLAB home directory to the above folder. Thereafter, open either 'Demo.mlx' or 'Example.m' file in MATLAB and follow the steps.
 
-[![DOI](https://zenodo.org/badge/125818623.svg)](https://zenodo.org/badge/latestdoi/125818623)
+[![DOI](https://zenodo.org/badge/125818623.svg)](https://zenodo.org/badge/latestdoi/125818623) 
