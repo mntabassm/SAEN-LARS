@@ -1,4 +1,4 @@
-# Package Repository | _SAEN-LARS_    [![DOI](https://zenodo.org/badge/125818623.svg)](https://zenodo.org/badge/latestdoi/125818623)
+# Software Package | _SAEN-LARS_    [![DOI](https://zenodo.org/badge/125818623.svg)](https://zenodo.org/badge/latestdoi/125818623)
 
 * __Version__: 1.0.0 
 * __Title__: Sequential Adaptive Elastic Net Approach for Single-snapshot Source Localization	 
