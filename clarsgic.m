@@ -14,7 +14,7 @@ beta = zeros(p,1);
 
 for k = 1:maxp-1
     Xa = X(:, nzB(:,k));    % active-set of predictors
-    b_ls = Xa \ y;          % LSE for current active-set | B(nzB(:,k),k+1)
+    b_ls = B(nzB(:,k),k+1);	% LSE for current active-set | Xa \ y
     r = y - Xa*b_ls;        % Residual for current active-set
     RSS = r'*r;
     scale_est(k+1) = RSS / (n-k);
