@@ -42,7 +42,7 @@ __Functions__: Function files for implementation of algorithms proposed in both 
 > * _[clarswlasso.m](https://github.com/mntabassm/SAEN-LARS/blob/master/clarswlasso.m)_: Auxiliary function for finding knots and respective solutions at found knots.
 > * _[clarsgic.m](https://github.com/mntabassm/SAEN-LARS/blob/master/clarsgic.m)_: Auxiliary function for detecting the true sparsity (or model) order and estimating corresponding solution.
 
-__Usage__: The files for the demo and an example.
+__Usage__: The files for the demo and examples.
 > * _[Demo.mlx](https://github.com/mntabassm/SAEN-LARS/blob/master/Demo.mlx)_: A live script demo.
 > * _[Example.m](https://github.com/mntabassm/SAEN-LARS/blob/master/Example.m)_: An example for DoA estimation with a ULA in CBF application.
 > * _[seed_data.mat](https://github.com/mntabassm/SAEN-LARS/blob/master/seed_data.mat)_: Scenario data and pseudorandom number generator settings. 
