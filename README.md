@@ -1,6 +1,8 @@
 # Software Package | _SAEN-LARS_    [![DOI](https://zenodo.org/badge/125818623.svg)](https://zenodo.org/badge/latestdoi/125818623)
 
 * __Version__: 1.0.1 
+* __GitHub Link__: https://github.com/mntabassm/SAEN-LARS
+
 * __Title__: Sequential Adaptive Elastic Net Approach and Sparsity (or Model) Order Detection with an Application to Single-snapshot Source Localization	 
 * __Short Title__: _Sequential Adaptive Elastic Net_ | _Sparsity (or Model) Order Detection_
 * __Authors__: Muhammad Naveed Tabassum and Esa Ollila
